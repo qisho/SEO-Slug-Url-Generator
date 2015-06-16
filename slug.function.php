@@ -65,7 +65,7 @@ function createSlug($slug) {
 		'u',
 		'f',
 		'q',
-		'g',
+		'gh',
 		'y',
 		'sh',
 		'ch',
